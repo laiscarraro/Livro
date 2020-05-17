@@ -1,0 +1,26 @@
+# Capítulo 2
+
+<p style="text-align: justify">"Nem dez da manhã e já estragou meu dia", murmurou Alex, pensando na motorista mal educada que o havia feito passar raiva.</p>
+<p style="text-align: justify">Atrasado e irritado, Alex finalmente chegou ao prédio comercial que por tanto tempo havia evitado. Apesar de ter em mente que aquilo seria bom para ele, estar lá não era nem um poco reconfortante.</p>
+<p style="text-align: justify">"Décimo andar", disse ao recepcionista, mal-humorado e de cabeça baixa.</p>
+<p style="text-align: justify">"Quase seis anos sem vir aqui e aparece assim, do nada?", respondeu o funcionário.</p>
+<p style="text-align: justify">Surpreso com a memória do outro, Alex esqueceu momentaneamente o que estava fazendo ali. "Negócios familiares", informou brevemente.</p>
+<p style="text-align: justify">Quando o segurança liberou sua passagem, fez o caminho que costumava fazer todo santo dia há alguns anos - que pareciam décadas. Sentiu como se tudo o que havia conquistado depois de ter saído daquele lugar tivesse sido perdido, e agora parecia estar de volta à estaca zero. Seria aquele seu destino? Ter um trabalho chato e estável para o resto da vida?</p>
+<p style="text-align: justify">Assim que chegou à porta do escritório, arrepende-se de estar ali. Pensou em virar as costas e fingir que nada havia acontecido, mas logo descartou a ideia; o recepcionista provavelmente já o havia avisado que estava ali.</p>
+<p style="text-align: justify">Sentiu um leve frio na barriga quando viu a porta abrir. À sua frente, estava um homem alto, num terno aparentemente caro, com um sorriso brilhante - e falso, pensou. "Oi, irmãozinho!", o homem disse, num tom de deboche.</p>
+<p style="text-align: justify">"Não vim aqui para falar com você", disse Alex. "Cadê o pai?"</p>
+<p style="text-align: justify">"Na sala dele, talvez?", respondeu o outro, sarcástico. "Já não vem aqui há tanto tempo que deve ter esquecido os caminhos. Posso te dar um tour se quiser."</p>
+<p style="text-align: justify">Ignorando o irmão, Alex dirigiu-se à sala de seu pai. Não pode deixar de notar olhares curiosos dos executivos que não via há um tempo considerável, mas tentou os ignorar também.</p>
+<p style="text-align: justify">Chegando na porta de vidro jateado, empurrou a maçaneta, rápido como quem tira um curativo. No fundo da sala, uma réplica um pouco mais velha do homem que havia acabado de encontrar tirou o óculos e levantou de sua mesa.</p>
+<p style="text-align: justify">"Por que me chamou aqui?", peguntou Alex, fechando a porta atrás de si.</p>
+<p style="text-align: justify">"Não mereço um abraço antes?", retrucou seu pai, estendendo os braços levemente.</p>
+<p style="text-align: justify">Hesitante, sentou numa cadeira da longa mesa de reuniões, ignorando o abraço. "Sei que devem ter ligado para você e te falado... coisas", tentou esconder sua preocupação, "mas eu tenho tudo sob controle", falou rapidamente, antes que o outro pudesse interromper. "Não preciso da sua ajuda", completou, orgulhoso.</p>
+<p style="text-align: justify">Seu pai limpou a garganta e sentou novamente em sua cadeira. "Bom, realmente não tenho propriedade para falar, já que não nos vemos há tanto tempo", fez uma pausa, tentando achar as palavras certas. "Mas as coisas não parecem tão sob controle. Eu só quero te ajudar, Alex."</p>
+<p style="text-align: justify">"Eu já disse que não preciso da sua ajuda", murmurou.</p>
+<p style="text-align: justify">"O que eu quero", continuou o homem, ignorando os protestos de Alex, "é fazer uma proposta. Sei que você e seu orgulho nunca aceitariam minha ajuda financeira. Mas se você se comprometer e der sua palavra de que dará o seu melhor, estou disposto a oferecer seu antigo cargo outra vez."</p>
+<p style="text-align: justify">"A última coisa que eu quero é voltar a trabalhar nesse buraco", retrucou, sua voz mais exaltada do que havia previsto. "Me fazer voltar para cá só vai piorar as coisas."</p>
+<p style="text-align: justify">Um silêncio desconfortável preencheu a sala. "Veja, Alex, eu e seu irmão estaremos felizes em te receber de volta, não guardamos nenhum rancor do que aconteceu no passado-"</p>
+<p style="text-align: justify">"Ah, vocês não guardam?", interrompeu, agora exaltado. "Nossa, como vocês são bonzinhos, né?" disse, levantando da mesa. "Puxa, que bom que vocês não guardam rancor de ter me tratado como um escravo pessoal de vocês! Que bom que não guardam rancor de ter me humilhado e me tratado como um pedaço de lixo por tanto tempo!"</p>
+<p style="text-align: justify">"Alex, por favor...", disse o pai, tentando acalmá-lo.</p>
+<p style="text-align: justify">"Olha, eu nem sei por que voltei nesse chiqueiro, sinceramente", esbravejou, abrindo a porta. "Não esperava nada diferente de um hipócrita como você!", finalizou, batendo a porta atrás de si, que fez um barulho mais alto do que esperava de vidro batendo em vidro.</p>
+<p style="text-align: justify">Furioso e constrangido, andou diretamente para a porta de onde havia chegado, em meio ao escritório completamente quieto, todos os olhos voltados para ele. "Típico de você mesmo, né, Alex?", ouviu seu irmão falar, alto e claramente, e usou o máximo de suas forças para ignorar e sair daquele lugar.</p>
